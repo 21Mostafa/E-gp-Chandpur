@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "No": "1",
+    "Tender_ID": "802266",
+    "Department": "LGED",
+    "Name_of_the_Work": " Improvement of Nandalalpur Satbaria Graveyard, Islamabad Union [Latitude: 23.41370 Longitude: 90.72522] Matlab Uttar Upazila, District: Chandpur. ",
+    "Doc_Price": "1000",
+    "Pay_Order": "10,000",
+    "Liquid_Assets": "2 Lakh  ",
+    "Location": "Matlab Uttar",
+    "Estimated_Cost": "4,10,000",
+    "Last_Selling": "04-Apr-2023"
+    
+  },
+  {
+    "id": 2,
+    "No": "2",
+    "Tender_ID": "802259",
+    "Department": "PWD",
+    "Name_of_the_Work": " Improvement of Baroholdia Gausepac Jam-E-Mosque, Farazikandi Union [Latitude: 23.37092 Longitude: 90.6459] Matlab Uttar Upazila, District: Chandpur.",
+    "Doc_Price": "1000",
+    "Pay_Order": "7,500",
+    "Liquid_Assets": "2 Lakh  ",
+    "Location": "Matlab Uttar",
+    "Estimated_Cost": "3,10,000",
+    "Last_Selling": "04-Apr-2023"
+  },
+  {
+    "id": 3,
+    "No": "4",
+    "Tender_ID": "802258",
+    "Department": "EED",
+    "Name_of_the_Work": " Improvement of Purbo Noawri Central Graveyard, Fathepur Pachim Union [Latitude: 23.35533 Longitude: 90.62851] Matlab Uttar Upazila, District: Chandpur. ",
+    "Doc_Price": "1000",
+    "Pay_Order": "7,500",
+    "Liquid_Assets": "2 Lakh  ",
+    "Location": "Matlab Uttar",
+    "Estimated_Cost": "3,10,000",
+    "Last_Selling": "04-Apr-2023"
+  },
+  {
+    "id": 4,
+    "No": "3",
+    "Tender_ID": "797467",
+    "Department": "LGED",
+    "Name_of_the_Work": "Improvement of Eklaspur Raipur vai Khokon Patwary Shop Road Ch: 00-1267m Under faridganj upazila Chandpur District.[Road ID : 413455197] ",
+    "Doc_Price": "2000",
+    "Pay_Order": "2,45,000",
+    "Liquid_Assets": "34 Lakh  ",
+    "Location": "Faridganj ",
+    "Estimated_Cost": "98,00,000",
+    "Last_Selling": "02-Apr-2023"
+  }
+   
+]
